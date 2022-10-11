@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   게임개발에 관심이 많은 신입 개발자 한지성입니다.</br>
   백엔드 개발을 주로 하며, 게임개발 경험은 아직 많이 부족합니다.</br>
   현재는 메이플스토리월드(MSW) 2022 해커톤에 참가하여 팀 프로젝트를 진행 중입니다.</br>
-  남에게 피해 주는 것을 가장 싫어하는 성격이라 협업 시 의사소통을 중요시하고 부족한 실력은 빠르게 공부하여 보완합니다.</br>
+  남에게 피해 주는 것을 가장 싫어하는 성격이라 협업 시 의사소통을 중요시하고 부족한 실력은 빠르게 공부하여 보완합니다.
   </br>
 
 ## Main Skills ⚒️
@@ -37,5 +37,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/></br>
-    
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   </p>
