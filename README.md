@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     현재는 메이플스토리월드(MSW) 2022 해커톤에 참가하여 팀 프로젝트를 진행 중입니다.</br>
     남에게 피해 주는 것을 가장 싫어하는 성격이라 협업 시 의사소통을 중요시하고 부족한 실력은 빠르게 공부하여 보완합니다.
   </p>
+  </br>
 
 ## Main Skills ⚒️
   <p>  
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
   </p>
+  </br>
   
 ## Used at least once ⚒️
   <p>
@@ -42,3 +44,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   </p>
+  </br>
