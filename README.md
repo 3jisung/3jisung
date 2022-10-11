@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&desc=JiSeong's%20GitHub&fontSize=90&descSize=30&descAlignY=70&descAlign=67)
 
-## Introduction ![image](https://user-images.githubusercontent.com/58137808/195080225-a9c887ca-a888-46c5-ac7e-f027d4c2e92e.png?size=50)
+## Introduction 👨‍💼
 
 ## Main Skills ⚒️
   <p>
