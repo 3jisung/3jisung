@@ -31,7 +31,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
   </p>
-  </br>
   
 ## Used at least once ⚒️
   <p>
