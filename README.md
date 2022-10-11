@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="right"><b>2022. 10. 12. update</b></p>
+<!-- 업데이트 -->
+<p align="right"><b>2022. 10. 12. Update</b></p>
 
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&desc=JiSeong's%20GitHub&fontSize=90&descSize=30&descAlignY=70&descAlign=67)
 
+<!-- 소개 -->
 ## Introduction 👨‍💼
   <p>
     게임개발에 관심이 많은 신입 개발자 한지성입니다.</br>
@@ -27,22 +29,29 @@ Here are some ideas to get you started:
   </p>
   </br>
 
+<!-- 주로 사용하는 기술스택 -->
 ## Main Skills ⚒️
   <p>  
+    <!-- 언어 -->
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></br>
+    <!-- DBMS -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></br>
+    <!-- IDE -->
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
   </p>
   </br>
   
 ## Used at least once ⚒️
   <p>
+    <!-- 언어 -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/></br>
+    <!-- 라이브러리 -->
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></br>
+    <!-- 프레임워크 및 그 외 -->
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   </p>
