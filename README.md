@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&desc=JiSeong's%20GitHub&fontSize=90&descSize=30&descAlignY=70&descAlign=67)
 
 ## Introduction 👨‍💼
+  
+  </br>
 
 ## Main Skills ⚒️
   <p>
