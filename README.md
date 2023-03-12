@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 업데이트 -->
-<p align="right"><b>2022. 10. 17. Update</b></p>
+<p align="right"><b>2023. 03. 12. Update</b></p>
 
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&desc=Jiseong's%20GitHub&fontSize=90&descSize=30&descAlignY=70&descAlign=67)
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!-- 소개 -->
 ## Introduction 👨‍💼
   <p>
-    게임개발에 관심이 많은 신입 개발자 한지성입니다.</br>
-    백엔드 개발을 주로 하며, 게임개발은 어렸을 적부터 꼭 배워보고 싶었기에 여러 방면으로 접근 중입니다.</br>
-    현재는 메이플스토리월드(MSW) 2022 해커톤에 참가하여 팀 프로젝트를 진행 중입니다.</br>
+    게임 개발에 관심이 많은 신입 개발자 한지성입니다.</br>
+    게임 개발 경험을 쌓기 위해 메이플스토리월드(MSW) 2022 해커톤에 참여하여 자체 엔진을 사용한 게임 제작을 해보았습니다.</br>
+    현재는 유튜브, 구글, 서적 등을 참고하여 언리얼엔진 공부를 하고 있습니다.</br>
   </p>
   </br>
 
