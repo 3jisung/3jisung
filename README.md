@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- 주로 사용하는 기술스택 -->
 ## Main Skills ⚒️
   <p>  
-    <img src="https://img.shields.io/badge/Unreal Engine 5.1-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unreal Engine 5-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></br>
   </p>
   </br>
