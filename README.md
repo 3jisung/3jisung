@@ -32,22 +32,24 @@ Here are some ideas to get you started:
 ## Main Skills ⚒️
   <p>  
     <!-- 언어 -->
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unreal Engine 5.1-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></br>
+    
+  </p>
+  </br>
+  
+## Sub Skills ⚒️
+  <p>
+    <!-- 언어 -->
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
     <!-- DBMS -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></br>
     <!-- IDE -->
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
-  </p>
-  </br>
-  
-## Used at least once ⚒️
-  <p>
-    <!-- 언어 -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/></br>
+    
     <!-- 라이브러리 -->
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></br>
